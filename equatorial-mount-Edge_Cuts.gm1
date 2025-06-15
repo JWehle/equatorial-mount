@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-06-14T22:04:31-04:00*%
+%TF.ProjectId,equatorial-mount,65717561-746f-4726-9961-6c2d6d6f756e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-06-14 22:04:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.120000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X106680000Y-71120000D02*
+X160020000Y-71120000D01*
+X160020000Y-142240000D01*
+X106680000Y-142240000D01*
+X106680000Y-71120000D01*
+M02*
